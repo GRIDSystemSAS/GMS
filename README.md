@@ -12,7 +12,7 @@ G.M.S is the 3rd iteration and first published of a messaging services. It is th
 
 # Feature
 
-- Multiplatform : Windows 32/64, Linux 32/64, Arm 32, iOS and Android. (FPX 3+ required)
+- Multiplatform : Windows 32/64, Linux 32/64, Arm 32, iOS and Android. (Delphi 10.2+/FPC 3+ required)
 - MultiThread-enable architecture, with low overhead profile.
 - Single Thread - But efficient - internal distribution for messaging service
 - Support Topic and Queue as channel communication
