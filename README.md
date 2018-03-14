@@ -35,3 +35,7 @@ G.M.S is the 3rd iteration and first published of a messaging services. It is th
 # Demo
 
 - Coming...
+
+# History
+
+- 2018/03/14 - Publishing.
