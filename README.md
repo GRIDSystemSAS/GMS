@@ -26,11 +26,13 @@ G.M.S is the 3rd iteration and first published of a messaging services. It is th
 - Use as standalone server, or as "agent" on simple PC
 - As an Agent, it could be used efficiently for Interprocess communication on a single PC. 
 - Perfom well on poor and/or old hardware. 
+- Work
+- Work well as a replacement of D-Bus, for exemple.
 
 # Dependancy
 
-- GS.SO (will be available soon)
-- (GS.Core)[https://github.com/VincentGsell/GS.Core]
+- [GS.SO](https://github.com/VincentGsell/GS.SO) (will be available soon)
+- [GS.Core](https://github.com/VincentGsell/GS.Core)
 
 # Demo
 
