@@ -30,7 +30,7 @@ G.M.S is the 3rd iteration and first published of a messaging services. It is th
 # Dependancy
 
 - GS.SO (will be available soon)
-- GS.Core
+- (GS.Core)[https://github.com/VincentGsell/GS.Core]
 
 # Demo
 
