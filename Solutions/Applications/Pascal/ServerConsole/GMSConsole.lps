@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="81">
+      <Unit0>
+        <Filename Value="GMSConsole.dpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="78"/>
+        <CursorPos Y="99"/>
+        <UsageCount Value="32"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\..\Core\GMS.ClientServer.Types.ChannelDefinitions.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\..\Core\GMS.Server.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\..\Core\GMS.Server.Types.Core.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\..\Protocoles\GMS.ClientServer.Protocol.Helper.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\..\Protocoles\GMS.ClientServer.Protocol.MessageService.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\..\Protocoles\GMS.ClientServer.Protocol.RPC.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\..\Protocoles\GMS.ClientServer.Protocol.Transport.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\..\..\Services\Central\GMS.ClientServer.DataModel.Central.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\..\Services\Central\GMS.ClientServer.Protocol.Central.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\..\..\Services\Central\GMS.Server.Central.DataModel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\..\..\Services\Central\GMS.Server.Central.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\..\..\Services\Central\GMS.Server.DataModel.Central.UserManagement.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\..\..\Services\Indy\TCPServer\GMS.Server.Services.IndyTCPServer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\..\..\Services\Indy\SSDPLike\GMS.Server.Services.IndySSDPLikeServer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\..\..\Services\Indy\SSDPLike\GMS.Server.Services.SSDPLikeServer.DataModel.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="..\..\..\Services\Indy\SSDPLike\GMS.Server.Services.SSDPLikeServer.DataModel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\GMS.Server.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="12"/>
+        <CursorPos Y="27"/>
+        <UsageCount Value="32"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\GMS.Server.Types.Core.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="26"/>
+        <UsageCount Value="32"/>
+        <Bookmarks Count="2">
+          <Item0 X="14" Y="220" ID="1"/>
+          <Item1 Y="259" ID="2"/>
+        </Bookmarks>
+      </Unit18>
+      <Unit19>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\Central\GMS.Server.Central.DataModel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\Central\GMS.Server.Central.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="32"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\Central\GMS.Server.DataModel.Central.UserManagement.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="51" Y="33"/>
+        <UsageCount Value="32"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\Persistence\GMS.Server.Services.Persists.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="197"/>
+        <CursorPos X="12" Y="89"/>
+        <UsageCount Value="32"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\Persistence\GMS.Server.Services.Persists.types.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <UsageCount Value="32"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\Central\GMS.ClientServer.DataModel.Central.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1111"/>
+        <CursorPos X="3" Y="1138"/>
+        <UsageCount Value="32"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\Central\GMS.ClientServer.Protocol.Central.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="15"/>
+        <UsageCount Value="32"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\Persistence\GMS.ClientServer.DB.Protocol.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="29"/>
+        <UsageCount Value="32"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\GMS.ClientServer.Types.ChannelDefinitions.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.Helper.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.MessageService.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="20" Y="27"/>
+        <UsageCount Value="32"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.RPC.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="27"/>
+        <UsageCount Value="32"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.Transport.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="27"/>
+        <UsageCount Value="32"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\TCPServer\GMS.Server.Services.IndyTCPServer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="32"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\SSDPLike\GMS.Server.Services.SSDPLikeServer.DataModel.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="27"/>
+        <UsageCount Value="32"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\SSDPLike\GMS.Server.Services.SSDPLikeServer.DataModel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\SSDPLike\IndyImpl\GMS.Server.Services.IndySSDPLikeServer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="32"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Persistence\GMS.ClientServer.PersistsConst.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="32"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="..\..\..\..\..\GS.Core\GS.Task.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="384"/>
+        <CursorPos X="34" Y="399"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="..\..\..\..\..\GS.Core\GS.Bus.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="17"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="..\..\..\..\..\GS.Core\GS.LocalMemcached.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="49" Y="24"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="..\..\..\..\..\GS.SO\Core\GS.StoredObject.BaseTypes.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="70"/>
+        <CursorPos X="27" Y="92"/>
+        <UsageCount Value="19"/>
+      </Unit40>
+      <Unit41>
+        <Filename Value="C:\fpcupdeluxe\fpcsrc\rtl\objpas\objpas.pp"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="184"/>
+        <CursorPos X="77" Y="218"/>
+        <UsageCount Value="9"/>
+      </Unit41>
+      <Unit42>
+        <Filename Value="..\..\..\..\..\GS.Core\ThirdPart\Json4Delphi\src\JsonsUtilsEx.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="411"/>
+        <CursorPos X="50" Y="432"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit42>
+      <Unit43>
+        <Filename Value="..\..\..\..\..\GS.Core\GS.Stream.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="98"/>
+        <CursorPos X="21" Y="120"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit43>
+      <Unit44>
+        <Filename Value="C:\fpcupdeluxe\fpcsrc\packages\rtl-generics\src\generics.collections.pas"/>
+        <UnitName Value="Generics.Collections"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="69"/>
+        <CursorPos X="64" Y="75"/>
+        <UsageCount Value="9"/>
+      </Unit44>
+      <Unit45>
+        <Filename Value="..\..\..\..\..\GS.SO\Core\GS.StoredObject.Stream.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="153"/>
+        <CursorPos X="37" Y="167"/>
+        <UsageCount Value="24"/>
+      </Unit45>
+      <Unit46>
+        <Filename Value="..\..\..\..\..\GS.Core\GS.CPUUsage.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="34" Y="14"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit46>
+      <Unit47>
+        <Filename Value="C:\fpcupdeluxe\fpcsrc\packages\fcl-base\src\syncobjs.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit47>
+      <Unit48>
+        <Filename Value="..\..\..\..\..\GS.Core\GS.JSON.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="7" Y="11"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit48>
+      <Unit49>
+        <Filename Value="..\..\..\..\..\GS.Core\GS.Timer.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="26" Y="25"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit49>
+      <Unit50>
+        <Filename Value="..\..\..\..\..\GS.Core\GS.Bus.Services.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit50>
+      <Unit51>
+        <Filename Value="..\..\..\..\..\GS.SO\Core\GS.StoredObject.Audit.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="3" Y="24"/>
+        <UsageCount Value="19"/>
+      </Unit51>
+      <Unit52>
+        <Filename Value="..\..\..\..\..\GS.SO\Core\GS.StoredObject.Types.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="26"/>
+        <UsageCount Value="19"/>
+      </Unit52>
+      <Unit53>
+        <Filename Value="..\..\..\..\..\GS.SO\Core\GS.StoredObject.Core.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="45" Y="7"/>
+        <UsageCount Value="19"/>
+      </Unit53>
+      <Unit54>
+        <Filename Value="..\..\..\..\..\GS.Core\Components\Lazarus\packagegscore.pas"/>
+        <UnitName Value="PackageGSCore"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="26" Y="13"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit54>
+      <Unit55>
+        <Filename Value="..\..\..\..\..\GS.SO\Core\GS.StoredObject.Buffer.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="459"/>
+        <CursorPos X="110" Y="467"/>
+        <UsageCount Value="23"/>
+      </Unit55>
+      <Unit56>
+        <Filename Value="..\..\..\..\..\GS.Core\GS.BOList.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="29" Y="22"/>
+        <UsageCount Value="19"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit56>
+      <Unit57>
+        <Filename Value="..\..\..\..\..\GS.SO\Core\GS.StoredObject.Persister.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="19"/>
+      </Unit57>
+      <Unit58>
+        <Filename Value="..\..\..\..\..\GS.SO\Core\GSStoredObjectAuditCore.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="34" Y="42"/>
+        <UsageCount Value="19"/>
+      </Unit58>
+      <Unit59>
+        <Filename Value="..\..\..\..\..\GS.Core\GS.BOList.Rec.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="39" Y="23"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit59>
+      <Unit60>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\Persistence\InstancesImplementation\SQLLite\GMS.Server.Services.DB.SQLLite.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos Y="23"/>
+        <UsageCount Value="28"/>
+      </Unit60>
+      <Unit61>
+        <Filename Value="..\..\..\..\..\GS.SO\Core\NonGenerics\GS.StoredObject.Core_NonGenerics.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1477"/>
+        <CursorPos X="99" Y="1490"/>
+        <UsageCount Value="13"/>
+      </Unit61>
+      <Unit62>
+        <Filename Value="..\..\..\..\..\GS.SO\Core\NonGenerics\GS.StoredObject.Types_STRING.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="433"/>
+        <CursorPos Y="461"/>
+        <UsageCount Value="14"/>
+      </Unit62>
+      <Unit63>
+        <Filename Value="..\..\..\..\..\GS.SO\Core\NonGenerics\GS.StoredObject.Types_UINT32.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="437"/>
+        <CursorPos Y="459"/>
+        <UsageCount Value="14"/>
+      </Unit63>
+      <Unit64>
+        <Filename Value="..\..\..\..\..\..\..\..\2017\ThirdPart\indy-10.2.0.3\lazarus\IdAboutVCL.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="55"/>
+        <CursorPos X="3" Y="76"/>
+        <UsageCount Value="10"/>
+      </Unit64>
+      <Unit65>
+        <Filename Value="..\..\..\..\..\..\..\..\2017\ThirdPart\indy-10.2.0.3\lazarus\IdAboutVCL.lrs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="172"/>
+        <UsageCount Value="10"/>
+      </Unit65>
+      <Unit66>
+        <Filename Value="..\..\..\..\..\..\..\..\2017\ThirdPart\indy-10.2.0.3\fpc\IdContext.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="46"/>
+        <CursorPos X="25" Y="69"/>
+        <UsageCount Value="10"/>
+      </Unit66>
+      <Unit67>
+        <Filename Value="..\..\..\..\..\..\..\..\2017\ThirdPart\indy-10.2.0.3\fpc\IdCompilerDefines.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="295"/>
+        <CursorPos X="125" Y="311"/>
+        <UsageCount Value="10"/>
+      </Unit67>
+      <Unit68>
+        <Filename Value="E:\FPCUPDeluxery\fpcsrc\packages\rtl-generics\src\generics.collections.pas"/>
+        <UnitName Value="Generics.Collections"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="203"/>
+        <CursorPos X="3" Y="224"/>
+        <UsageCount Value="10"/>
+      </Unit68>
+      <Unit69>
+        <Filename Value="..\..\..\..\..\GS.Core\GS.Threads.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="57" Y="20"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit69>
+      <Unit70>
+        <Filename Value="E:\FPCUPDeluxery\fpcsrc\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="936"/>
+        <CursorPos X="14" Y="957"/>
+        <UsageCount Value="10"/>
+      </Unit70>
+      <Unit71>
+        <Filename Value="E:\FPCUPDeluxery\fpcsrc\rtl\objpas\objpas.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="197"/>
+        <CursorPos X="77" Y="218"/>
+        <UsageCount Value="10"/>
+      </Unit71>
+      <Unit72>
+        <Filename Value="..\..\..\..\..\GS.SO\Core\NonGenerics\GS.StoredObject.Persister_NonGenerics.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="54" Y="9"/>
+        <UsageCount Value="10"/>
+      </Unit72>
+      <Unit73>
+        <Filename Value="..\..\..\..\..\GS.SO\Core\NonGenerics\GS.StoredObject.Audit_NonGenerics.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit73>
+      <Unit74>
+        <Filename Value="..\..\..\..\..\..\..\..\2017\ThirdPart\sergworks-tforge\Source\Include\TFL.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="15" Y="7"/>
+        <UsageCount Value="10"/>
+      </Unit74>
+      <Unit75>
+        <Filename Value="..\..\..\..\..\..\..\..\2017\ThirdPart\sergworks-tforge\Source\Engine\OSes\tfWindows.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="24" Y="7"/>
+        <UsageCount Value="10"/>
+      </Unit75>
+      <Unit76>
+        <Filename Value="..\..\..\..\..\..\..\..\2017\ThirdPart\sergworks-tforge\Source\Engine\Hashes\tfHashServ.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="182"/>
+        <CursorPos X="71" Y="206"/>
+        <UsageCount Value="10"/>
+      </Unit76>
+      <Unit77>
+        <Filename Value="..\..\..\..\..\..\..\..\2017\ThirdPart\sergworks-tforge\Source\Engine\Ciphers\tfRC5.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="21"/>
+        <UsageCount Value="10"/>
+      </Unit77>
+      <Unit78>
+        <Filename Value="..\..\..\..\..\..\..\..\2017\ThirdPart\sergworks-tforge\Source\Engine\Ciphers\tfDES.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="614"/>
+        <CursorPos X="21" Y="635"/>
+        <UsageCount Value="10"/>
+      </Unit78>
+      <Unit79>
+        <Filename Value="E:\FPCUPDeluxery\fpcsrc\rtl\objpas\classes\streams.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="515"/>
+        <CursorPos X="3" Y="518"/>
+        <UsageCount Value="10"/>
+      </Unit79>
+      <Unit80>
+        <Filename Value="..\..\..\..\..\GS.Core\GS.MVVM.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit80>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

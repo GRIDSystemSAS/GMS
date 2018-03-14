@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasScaledStatement Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="My Application"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+    </General>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0"/>
+    </RunParams>
+    <RequiredPackages Count="3">
+      <Item1>
+        <PackageName Value="tforge"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="GSPackageSO"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="PackageGSCore"/>
+      </Item3>
+    </RequiredPackages>
+    <Units Count="37">
+      <Unit0>
+        <Filename Value="GMSConsole.dpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\..\Core\GMS.ClientServer.Types.ChannelDefinitions.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\..\Core\GMS.Server.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\..\Core\GMS.Server.Types.Core.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\..\Protocoles\GMS.ClientServer.Protocol.Helper.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\..\Protocoles\GMS.ClientServer.Protocol.MessageService.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\..\Protocoles\GMS.ClientServer.Protocol.RPC.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\..\Protocoles\GMS.ClientServer.Protocol.Transport.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\..\..\Services\Central\GMS.ClientServer.DataModel.Central.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\..\Services\Central\GMS.ClientServer.Protocol.Central.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\..\..\Services\Central\GMS.Server.Central.DataModel.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\..\..\Services\Central\GMS.Server.Central.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\..\..\Services\Central\GMS.Server.DataModel.Central.UserManagement.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\..\..\Services\Indy\TCPServer\GMS.Server.Services.IndyTCPServer.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\..\..\Services\Indy\SSDPLike\GMS.Server.Services.IndySSDPLikeServer.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\..\..\Services\Indy\SSDPLike\GMS.Server.Services.SSDPLikeServer.DataModel.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="..\..\..\Services\Indy\SSDPLike\GMS.Server.Services.SSDPLikeServer.DataModel.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\GMS.Server.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\GMS.Server.Types.Core.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\Central\GMS.Server.Central.DataModel.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\Central\GMS.Server.Central.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\Central\GMS.Server.DataModel.Central.UserManagement.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\Persistence\GMS.Server.Services.Persists.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\Persistence\GMS.Server.Services.Persists.types.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\Central\GMS.ClientServer.DataModel.Central.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\Central\GMS.ClientServer.Protocol.Central.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\Persistence\GMS.ClientServer.DB.Protocol.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\GMS.ClientServer.Types.ChannelDefinitions.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.Helper.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.MessageService.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.RPC.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.Transport.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\TCPServer\GMS.Server.Services.IndyTCPServer.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\SSDPLike\GMS.Server.Services.SSDPLikeServer.DataModel.BO.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\SSDPLike\GMS.Server.Services.SSDPLikeServer.DataModel.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="..\..\..\..\Sources\Pascal\Server\Services\SSDPLike\IndyImpl\GMS.Server.Services.IndySSDPLikeServer.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="..\..\..\..\Sources\Pascal\Common\Persistence\GMS.ClientServer.PersistsConst.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit36>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="..\..\..\Targets\Lazarus\$(TargetOS)\$(TargetCPU)\GMSConsole_fpc_$(TargetOS)-$(TargetCPU)"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <OtherUnitFiles Value="..\..\..\..\..\..\..\..\..\DATA\2017\ThirdPart\indy-10.2.0.3\fpc"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <CodeGeneration>
+      <TargetCPU Value="arm"/>
+      <TargetOS Value="linux"/>
+    </CodeGeneration>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

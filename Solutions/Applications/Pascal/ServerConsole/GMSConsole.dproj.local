@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/01/23 14:43:51.000.606,C:\Users\Vincent\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Vincent\Documents\Embarcadero\Studio\Projects\GSMSConsole.dproj</Transaction>
+    <Transaction>2018/01/23 14:45:26.000.792,C:\Users\Vincent\Documents\Embarcadero\Studio\Projects\GSMSConsole.dproj=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Applications\GSMS_ServerConsole\Pascal\GSMSConsole.dproj</Transaction>
+    <Transaction>2018/01/23 14:49:32.000.241,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Applications\GSMS_ServerConsole\Pascal\GSMSConsole.dproj=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Applications\GSMS_ServerConsole\Pascal\GMSConsole.dproj</Transaction>
+    <Transaction>2018/01/23 17:13:06.000.077,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Services\Indy\SSDPLike\GMS.Server.Services.SSDPLikeServer.DataModel.BO.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Services\Indy\SSDPLike\GMSD.Server.Services.SSDPLikeServer.DataModel.BO.pas</Transaction>
+    <Transaction>2018/01/24 11:20:14.000.042,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Common\Protocol\GRID.ClientServer.Protocol.MessageService.BO.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.MessageService.BO.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/01/26 15:23:54.000.784,C:\Users\Vincent\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\gsmcl.dproj</Transaction>
+    <Transaction>2018/01/26 15:36:55.000.582,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GRID.Client.Transporter.pas</Transaction>
+    <Transaction>2018/01/26 15:36:55.000.543,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GRID.Client.pas</Transaction>
+    <Transaction>2018/01/26 15:36:55.000.530,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GRID.Client.Connection.pas</Transaction>
+    <Transaction>2018/01/26 15:36:55.000.575,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GRID.Client.SSDPLikeServer.DataModel.pas</Transaction>
+    <Transaction>2018/01/26 15:36:55.000.557,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GRID.Client.Resolver.pas</Transaction>
+    <Transaction>2018/01/26 15:36:55.000.568,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GRID.Client.SSDPLikeServer.DataModel.BO.pas</Transaction>
+    <Transaction>2018/01/26 15:37:00.000.079,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\IndyImpl\GRID.Client.Transporter.Indy10.pas</Transaction>
+    <Transaction>2018/01/26 15:37:15.000.675,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\IndyImpl\GRID.Client.Transporter.Indy10.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\IndyImpl\GMS.Client.Transporter.Indy10.pas</Transaction>
+    <Transaction>2018/01/26 15:37:20.000.238,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GRID.Client.Connection.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GMS.Client.Connection.pas</Transaction>
+    <Transaction>2018/01/26 15:37:35.000.052,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GRID.Client.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GMS.Client.pas</Transaction>
+    <Transaction>2018/01/26 15:37:39.000.378,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GRID.Client.Resolver.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GMS.Client.Resolver.pas</Transaction>
+    <Transaction>2018/01/26 15:37:43.000.861,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GRID.Client.SSDPLikeServer.DataModel.BO.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GMS.Client.SSDPLikeServer.DataModel.BO.pas</Transaction>
+    <Transaction>2018/01/26 15:37:48.000.922,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GRID.Client.SSDPLikeServer.DataModel.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GMS.Client.SSDPLikeServer.DataModel.pas</Transaction>
+    <Transaction>2018/01/26 15:37:55.000.043,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GRID.Client.Transporter.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Client\GMS.Client.Transporter.pas</Transaction>
+    <Transaction>2018/01/26 15:39:44.000.158,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Common\GMS.ClientServer.Types.ChannelDefinitions.pas</Transaction>
+    <Transaction>2018/01/26 15:40:15.000.504,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.RPC.BO.pas</Transaction>
+    <Transaction>2018/01/26 15:40:15.000.492,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.Helper.pas</Transaction>
+    <Transaction>2018/01/26 15:40:15.000.498,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.MessageService.BO.pas</Transaction>
+    <Transaction>2018/01/26 15:40:15.000.510,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.Transport.BO.pas</Transaction>
+    <Transaction>2018/01/26 15:40:23.000.729,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Common\Protocol\Central\GMS.ClientServer.DataModel.Central.BO.pas</Transaction>
+    <Transaction>2018/01/26 15:40:23.000.736,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Pascal\Common\Protocol\Central\GMS.ClientServer.Protocol.Central.BO.pas</Transaction>
+    <Transaction>2018/01/29 10:25:44.000.175,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 10:26:16.000.242,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\gmscl.Message.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 10:26:54.000.319,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 10:27:15.000.149,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\gmscl.MemStream.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 13:49:13.000.820,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 13:49:29.000.553,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\gmscl.Connection.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 13:50:42.000.330,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 13:51:33.000.196,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\gmsclConst.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 18:10:27.000.949,=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 18:10:46.000.138,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\gmsclh.pas=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 18:13:18.000.946,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\gmscl.dproj=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\gsmcl.dproj</Transaction>
+    <Transaction>2018/01/29 18:23:56.000.004,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ClientLib\gmsclh.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\..\..\..\GMS"/>
+    <File Path="..\..\..\..\Sources"/>
+    <File Path="..\..\..\..\Sources\Pascal"/>
+    <File Path="..\..\..\..\Sources\Pascal\Client"/>
+    <File Path="..\..\..\..\Sources\Pascal\Client\IndyImpl"/>
+    <File Path="..\..\..\..\Sources\Pascal\Client\IndyImpl\GMS.Client.Transporter.Indy10.pas"/>
+    <File Path="..\..\..\..\Sources\Pascal\Client\GMS.Client.Connection.pas"/>
+    <File Path="..\..\..\..\Sources\Pascal\Client\GMS.Client.pas"/>
+    <File Path="..\..\..\..\Sources\Pascal\Client\GMS.Client.Resolver.pas"/>
+    <File Path="..\..\..\..\Sources\Pascal\Client\GMS.Client.SSDPLikeServer.DataModel.BO.pas"/>
+    <File Path="..\..\..\..\Sources\Pascal\Client\GMS.Client.SSDPLikeServer.DataModel.pas"/>
+    <File Path="..\..\..\..\Sources\Pascal\Client\GMS.Client.Transporter.pas"/>
+    <File Path="..\..\..\..\Sources\Pascal\Common"/>
+    <File Path="..\..\..\..\Sources\Pascal\Common\Protocol"/>
+    <File Path="..\..\..\..\Sources\Pascal\Common\Protocol\Central"/>
+    <File Path="..\..\..\..\Sources\Pascal\Common\Protocol\Central\GMS.ClientServer.DataModel.Central.BO.pas"/>
+    <File Path="..\..\..\..\Sources\Pascal\Common\Protocol\Central\GMS.ClientServer.Protocol.Central.BO.pas"/>
+    <File Path="..\..\..\..\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.Helper.pas"/>
+    <File Path="..\..\..\..\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.MessageService.BO.pas"/>
+    <File Path="..\..\..\..\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.RPC.BO.pas"/>
+    <File Path="..\..\..\..\Sources\Pascal\Common\Protocol\GMS.ClientServer.Protocol.Transport.BO.pas"/>
+    <File Path="..\..\..\..\Sources\Pascal\Common\GMS.ClientServer.Types.ChannelDefinitions.pas"/>
+    <File Path="gmscl.Message.pas"/>
+    <File Path="gmscl.MemStream.pas"/>
+    <File Path="gmscl.Connection.pas"/>
+    <File Path="gmsclConst.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
