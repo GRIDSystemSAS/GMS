@@ -1,0 +1,25 @@
+G.M.S (Grid Messaging System) is : 
+- An easy to use Messaging system
+- Kiss mode - Not a complicated stuff at all - but yet powerfull
+- Efficient messaging transfert, with very low system ressources consoumptions.
+- Work well today in production environement
+- Offers to CPP / Pascal / all other library enabled language) communicate effectively and easely
+- Protocol buffer communication only on TCP.
+
+G.M.S is the 3rd iteration and first published of a messaging services. It is the grand father of GRID Server.
+
+
+Feature
+
+- MultiThread-enable messaging service
+- Support Topic and Queue as channel communication
+- In-memory persistant message
+- Message is juste stream : Exchange what do you want.
+- Built-In security.
+- SSDP like for easely finding service.
+
+Usage
+
+- Use as standalone server, or as "agent" on simple PC
+- As an Agent, it could be used efficiently for Interprocess communication on a single PC. 
+- Perfom well on poor and/or old hardware. 

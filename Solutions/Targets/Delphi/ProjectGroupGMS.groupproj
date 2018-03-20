@@ -1,0 +1,84 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{70188B13-BE15-4111-BDAE-C023656BE085}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="..\..\Applications\Pascal\ServerConsole\GMSConsole.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Applications\Pascal\ClientLib\gmscl.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Applications\Pascal\ClientLib\TestGMSclient\TestGMSClient.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\..\..\GS.Core\Components\Delphi\Delphi10.2\PackageGSCore.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\..\..\GS.SO\Components\Delphi\Delphi10.2\PackageGSSO.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="GMSConsole">
+        <MSBuild Projects="..\..\Applications\Pascal\ServerConsole\GMSConsole.dproj"/>
+    </Target>
+    <Target Name="GMSConsole:Clean">
+        <MSBuild Projects="..\..\Applications\Pascal\ServerConsole\GMSConsole.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="GMSConsole:Make">
+        <MSBuild Projects="..\..\Applications\Pascal\ServerConsole\GMSConsole.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="gmscl">
+        <MSBuild Projects="..\..\Applications\Pascal\ClientLib\gmscl.dproj"/>
+    </Target>
+    <Target Name="gmscl:Clean">
+        <MSBuild Projects="..\..\Applications\Pascal\ClientLib\gmscl.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="gmscl:Make">
+        <MSBuild Projects="..\..\Applications\Pascal\ClientLib\gmscl.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="TestGMSClient">
+        <MSBuild Projects="..\..\Applications\Pascal\ClientLib\TestGMSclient\TestGMSClient.dproj"/>
+    </Target>
+    <Target Name="TestGMSClient:Clean">
+        <MSBuild Projects="..\..\Applications\Pascal\ClientLib\TestGMSclient\TestGMSClient.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="TestGMSClient:Make">
+        <MSBuild Projects="..\..\Applications\Pascal\ClientLib\TestGMSclient\TestGMSClient.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="PackageGSCore">
+        <MSBuild Projects="..\..\..\..\GS.Core\Components\Delphi\Delphi10.2\PackageGSCore.dproj"/>
+    </Target>
+    <Target Name="PackageGSCore:Clean">
+        <MSBuild Projects="..\..\..\..\GS.Core\Components\Delphi\Delphi10.2\PackageGSCore.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PackageGSCore:Make">
+        <MSBuild Projects="..\..\..\..\GS.Core\Components\Delphi\Delphi10.2\PackageGSCore.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="PackageGSSO">
+        <MSBuild Projects="..\..\..\..\GS.SO\Components\Delphi\Delphi10.2\PackageGSSO.dproj"/>
+    </Target>
+    <Target Name="PackageGSSO:Clean">
+        <MSBuild Projects="..\..\..\..\GS.SO\Components\Delphi\Delphi10.2\PackageGSSO.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PackageGSSO:Make">
+        <MSBuild Projects="..\..\..\..\GS.SO\Components\Delphi\Delphi10.2\PackageGSSO.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="GMSConsole;gmscl;TestGMSClient;PackageGSCore;PackageGSSO"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="GMSConsole:Clean;gmscl:Clean;TestGMSClient:Clean;PackageGSCore:Clean;PackageGSSO:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="GMSConsole:Make;gmscl:Make;TestGMSClient:Make;PackageGSCore:Make;PackageGSSO:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

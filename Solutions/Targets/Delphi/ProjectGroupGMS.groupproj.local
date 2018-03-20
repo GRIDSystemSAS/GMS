@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/01/24 08:27:58.000.907,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Applications\ServerConsole\Pascal\ProjectGroupGMS.groupproj=C:\Users\Vincent\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2018/01/24 10:23:43.000.813,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Targets\Delphi10.2\ProjectGroupGMS.groupproj=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Sources\Applications\ServerConsole\Pascal\ProjectGroupGMS.groupproj</Transaction>
+    <Transaction>2018/01/24 10:25:06.000.353,E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ServerConsole\ProjectGroupGMS.groupproj=E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Targets\Delphi10.2\ProjectGroupGMS.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="E:\DATA\2018_GRIDSYSTEM\Code\GS\GMS\Solutions\Applications\Pascal\ServerConsole\GMSConsole.dproj"/>
+	</Default.Personality>
+</BorlandProject>
