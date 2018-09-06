@@ -1,13 +1,14 @@
 # G.M.S (Grid Messaging System) is : 
 
 - An easy to use Messaging system
-- Kiss mode - Not a complicated stuff at all - but yet powerfull
+- Kiss mode - yet powerfull
 - Efficient messaging transfert, with very low system ressources consoumptions.
 - Work well today in production environement
 - Offers to CPP / Pascal / all other library enabled language) communicate effectively and easely
-- Protocol buffer communication only on TCP.
+- Cient library could be find [here](https://github.com/VincentGsell/GMSclientLib)
+- Protocol buffer communication over TCP.
 
-G.M.S is the 3rd iteration and first published of a messaging services. It is the grand father of GRID Server.
+G.M.S is the 3rd iteration and first published of a messaging services. 
 
 
 # Feature
@@ -31,13 +32,10 @@ G.M.S is the 3rd iteration and first published of a messaging services. It is th
 
 # Dependancy
 
-- [GS.SO](https://github.com/VincentGsell/GS.SO) (will be available soon)
+- [GS.SO](https://github.com/VincentGsell/GS.SO) 
 - [GS.Core](https://github.com/VincentGsell/GS.Core)
 
-# Demo
-
-- Coming...
 
 # History
 
-- 2018/03/14 - Publishing.
+- 2018/03/14 - First Publishing.
